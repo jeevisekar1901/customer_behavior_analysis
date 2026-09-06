@@ -328,7 +328,7 @@ By combining **Python + SQL + Power BI**, the project showcases the ability to t
 Computer Science Engineering Student
 Aspiring Data Engineer
 
-📌 GitHub: 
+📌 GitHub: [**https://github.com/jeevisekar1901**]
 📌 LinkedIn: [**https://www.linkedin.com/in/jeevitha-sree-g-71822a383**]
   
 
